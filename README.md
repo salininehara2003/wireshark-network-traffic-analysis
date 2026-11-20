@@ -126,4 +126,4 @@ University of Sri Jayewardenepura
 
 ---
 
-*This project was developed for educational and professional portfolio purposes. Security testing was restricted to an authorized personal network.*
+
